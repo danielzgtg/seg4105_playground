@@ -6,7 +6,7 @@
 
 ## Chapter 2
 
-Shaping up is neither too concrete nor too abstract. It's between a wireframes wrongly estimating and words lacking specification. Shaped work appears rough, but is thoughtfully solved and time-bounded. Both business and technical people are involved. It's not scheduled so that there is scheduling at building time.
+Shaping up is neither too concrete nor too abstract. It's between wireframes wrongly estimating and words lacking specification. Shaped work appears rough, but is thoughtfully solved and time-bounded. Both business and technical people are involved. It's not scheduled so that there is scheduling at building time.
 
 ## Chapter 3
 
