@@ -30,9 +30,9 @@ Conclusion: Yes
 
 Dish: Should the questline see through subgraphs? Daniel: No, that will involve loading too much stuff into memory and defeat database partitioning. Dish: Yeah, it’s will be too cluttered anyway.
 
-Daniel: In the cilent’s example graph, how give me an example of a questline. Dish: So the goal node is special, and every branch off of it is a questline.
+Daniel: In the client's example graph, how give me an example of a questline. Dish: So the goal node is special, and every branch off of it is a questline.
 
-Dish: All the questlines are separate. Daniel: That might be hard, as opposed to only the nodes coming off the goal node being separate and the children being sharable. Dish: Yeah, that might be easier.
+Dish: All the questlines are separate. Daniel: That might be hard, as opposed to only the nodes coming off the goal node being separate and the children being shareable. Dish: Yeah, that might be easier.
 
 Dish: We want to show the deepest node at the top. Daniel: I would have just partitioned the ready to the top and the completed to the end, as that might be easier to implement. Dish: We can just leave it unspecified for simplicity.
 
@@ -40,7 +40,7 @@ Dish: So we will need to implement a UI and an overlay. Daniel: The other proble
 
 Daniel: Are we actually going to draw the questline tree and how? Dish: No, we’re only going to display current task and next task.
 
-Conclusion: Yes, the appetite is right. The pitch became articulated better after asking questions. It’s doable in six weeks. We are all insterested because we it’s very cool.
+Conclusion: Yes, the appetite is right. The pitch became articulated better after asking questions. It’s doable in six weeks. We are all interested because we it’s very cool.
 
 #### Is the solution attractive?
 
@@ -60,7 +60,7 @@ Conclusion: Yes, the solution is attractive.
 
 Dish: We’re still in development, and we’re only doing polishing at the moment, no major features. (“splash of news with a new feature”)
 
-Daniel: And we really want to give this featrue to the client before the end of the semester.
+Daniel: And we really want to give this feature to the client before the end of the semester.
 
 Conclusion: Yes, this is the right time.
 
@@ -110,7 +110,7 @@ Conclusion: No, this solution is not attractive, and we will import his graphs m
 
 #### Is this the right time?
 
-Dish: In terms of timing, techincally this is a new feature, and we want to do features.
+Dish: In terms of timing, technically this is a new feature, and we want to do features.
 
 Daniel: And we don’t have many bugs that the client wants us to fix anymore.
 
