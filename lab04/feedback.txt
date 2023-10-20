@@ -1,0 +1,3 @@
+Feedback from TA 2023-10-20 12h??:
+
+The fat marker sketch needs improvement. It should include the screen where I enter this feature from the application. It was confusing, and one could think one could entered the feature from one's camera app not our webapp. The embedded sketch from deliverable 1 or a smaller version thereof should have been included.
